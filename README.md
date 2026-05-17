@@ -173,12 +173,5 @@ The benchmark's **Threshold Sensitivity Test** lets you verify this empirically 
 
 ---
 
-## Citation
-
-Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009).
-*Introduction to Algorithms* (3rd ed.). MIT Press. (Chapter 8 – Bucket Sort)
-
----
-
 *CMSC 142 Portfolio Project — Tiered Bucket Sort*
 *Faculty-in-charge: Assoc. Prof. Cinmayii G. Manliguez, Ph.D.*
