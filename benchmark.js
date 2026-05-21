@@ -139,7 +139,7 @@ console.log('  THRESHOLD SENSITIVITY TEST');
 console.log('  (Tiered Bucket Sort, skewed n=10,000)');
 console.log('========================================');
 const thresholdArr = generateSkewed(10_000, 0, 10000, 0.9);
-const thresholds = [5, 10, 25, 50, 100, Math.floor(Math.sqrt(10_000)), 200];
+const thresholds = [5, 10, 25, 50, 100, 200];
 
 console.log('\n  Threshold   |   Avg Time (ms)');
 console.log('  ------------|----------------');
